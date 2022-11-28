@@ -16,3 +16,6 @@ for i in range(len(num_list)):
             num_list[j + 1] = num_list[j]
             num_list[j] = temp
 print(num_list)
+
+
+# time

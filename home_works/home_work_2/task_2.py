@@ -6,6 +6,5 @@ for i in range(1, n + 1):
     if i == 1:
         n_list.append(i)
     else:
-        temp = n_list[i - 2] * i
-        n_list.append(temp)
+        n_list.append(n_list[i - 2] * i)
 print(n_list)
