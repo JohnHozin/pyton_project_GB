@@ -162,7 +162,7 @@ print(colors == ['red', 'green', 'blue', 'gray'])  # True
 colors.remove('red')  # del colors[0] # удалить элемен
 
 
-def f(x):
+def f2(x):
     return x**2
 
 
