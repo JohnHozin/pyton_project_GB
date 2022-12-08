@@ -44,7 +44,7 @@ def week_comp_player(main_num, move1):
         comp_win()
     else:
         comp_n = random.randint(1, max_number)
-        comp_player(main_num, comp_color_1)
+        comp_player(comp_n, comp_color_1)
         print_value(main_num - comp_n)
         return not move1, main_num - comp_n
 
@@ -56,8 +56,8 @@ def strong_comp_player(main_num, move1):
     else:
         comp_n = main_num % (max_number + 1)
         if comp_n == 0:
-            comp_n += 1
-        comp_player(main_num, comp_color_2)
+            comp_n = random.randint(1, max_number)
+        comp_player(comp_n, comp_color_2)
         print_value(main_num - comp_n)
         return not move1, main_num - comp_n
 
@@ -80,7 +80,7 @@ def rand_move():
 
 # Начало программы
 max_number = 28
-balance_of_candies = 80
+balance_of_candies = 2021
 player_name_1 = "Первый игрок"
 player_name_2 = "Второй игрок"
 player_name_3 = "Игрок"
