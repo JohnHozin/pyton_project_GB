@@ -1,3 +1,55 @@
-21:04;temperature;5
-21:04;temperature;5
-21:04;temperature;0
+10:31; number_1; (2+6j)
+10:31; number_2; (5+8j)
+10:31; addition result; (7+14j)
+10:31; subtraction result ; (7+14j)
+10:31; multiplication result; (7+14j)
+10:31; division result; (7+14j)
+10:33; number_1; 0
+10:33; number_2; 0
+10:33; addition result; (4+6j)
+10:33; subtraction result ; (4+6j)
+10:33; multiplication result; (4+6j)
+10:33; division result; (4+6j)
+10:34; number_1; (1+2j)
+10:34; number_2; (3+4j)
+10:34; addition result; (4+6j)
+10:34; subtraction result ; (4+6j)
+10:34; multiplication result; (4+6j)
+10:34; division result; (4+6j)
+10:43; number_1; (1+2j)
+10:43; number_2; (3+4j)
+10:43; addition result; (4+6j)
+10:47; number_1; (1+2j)
+10:47; number_2; (4+5j)
+10:47; division result; (0.34146341463414637+0.0731707317073171j)
+10:47; number_1; (2+4j)
+10:47; number_2; (5+6j)
+10:51; number_1; 2+4j
+10:51; number_2; 5+6j
+10:52; number_1; 2+4j
+10:52; number_2; 5+6j
+10:52; division result; 0.557377+0.131148j
+10:55; number_1; 2+4j
+10:55; number_2; 5+6j
+10:55; division result; 1+0j
+10:56; number_1; 2+4j
+10:56; number_2; 5+6j
+10:56; division result; 0.557+0.131j
+10:56; number_1; 1+2j
+10:56; number_2; 3+4j
+10:56; addition result; 4+6j
+10:57; number_1; 1.5435+12.5146j
+10:57; number_2; 1551.42+513.551j
+10:57; addition result; 1552.96+526.066j
+11:02; number_1; 5+2j
+11:02; number_2; 5+1j
+11:02; number_1; 2+5j
+11:02; number_2; 1+5j
+11:03; number_1; 15+5j
+11:03; number_2; 1+5j
+11:06; number_1; (2+5j)
+11:06; number_2; (6+4j)
+11:06; division result; -1
+11:07; number_1; (2+5j)
+11:07; number_2; (6+5j)
+11:07; result; Error!
