@@ -1,8 +1,0 @@
-Index: .gitignore
-===================================================================
-diff --git a/.gitignore b/.gitignore
-deleted file mode 100644
---- a/.gitignore	(revision d034f848f5ec3949268bbdfc9d3e38d1c14592e9)
-+++ /dev/null	(revision d034f848f5ec3949268bbdfc9d3e38d1c14592e9)
-@@ -1,1 +0,0 @@
--/.idea/
