@@ -7,7 +7,7 @@ import random
 # Включаем логирование, чтобы не пропустить важные сообщения
 logging.basicConfig(level=logging.INFO)
 # Объект бота
-bot = Bot(token='')
+bot = Bot(token='5865979861:AAFtQNtlmVE3RRr8VsJXyxZEDsfc2e6vuP4')
 # Диспетчер
 dp = Dispatcher(bot)
 

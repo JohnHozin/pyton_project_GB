@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1456e1cb-7f63-4211-92d6-ff2c5cf30068" name="Changes" comment="add home work 6">
-      <change afterPath="$PROJECT_DIR$/lections/lection_5/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/seminar_7/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/seminar_9/telegram_bot/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/seminar_9/telegram_bot/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/seminar_9/telegram_bot/bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/seminar_9/telegram_bot/bot_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/seminar_9/telegram_bot/bot_calc.py" afterDir="false" />
+    <list default="true" id="1456e1cb-7f63-4211-92d6-ff2c5cf30068" name="Changes" comment="add hw 9">
       <change afterPath="$PROJECT_DIR$/seminars/seminar_9/telegram_bot/bot_token.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_12_2022_22_47_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_12_2022_22_47__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/seminar_9/telegram_bot/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/seminar_9/telegram_bot/bot_candies.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/seminar_9/telegram_bot/bot_candies.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.bot_calc">
+  <component name="RunManager" selected="Python.bot_candies">
     <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,6 +130,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="bot_candies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seminars/seminar_9/telegram_bot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminars/seminar_9/telegram_bot/bot_candies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pytonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,34 +172,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seminars/seminar_9/telegram_bot" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\javaProjects\pythonProject\seminars\seminar_9\telegram_bot\main_bot.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bot_candies" />
         <item itemvalue="Python.bot_calc" />
         <item itemvalue="Python.bot_1" />
         <item itemvalue="Python.bot (1)" />
         <item itemvalue="Python.api" />
-        <item itemvalue="Python.main_bot" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +268,28 @@
       <option name="project" value="LOCAL" />
       <updated>1671047615353</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add seminar 9">
+      <created>1671776948370</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671776948370</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add hw 8">
+      <created>1671896765250</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671896765250</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add hw 9">
+      <created>1671908578839</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1671908578839</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -319,6 +330,9 @@
     <MESSAGE value="add seminar 5" />
     <MESSAGE value="add home work 5" />
     <MESSAGE value="add home work 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="add home work 6" />
+    <MESSAGE value="add seminar 9" />
+    <MESSAGE value="add hw 8" />
+    <MESSAGE value="add hw 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw 9" />
   </component>
 </project>
